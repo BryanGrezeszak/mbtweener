@@ -1,0 +1,23 @@
+{
+  "name": "mbtweener",
+  "description": "Lightweight JS Tweening Engine",
+  "main": "mbtweener.js",
+  "authors": [
+    "Bryan Grezeszak <bryangrezeszak@mail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "tweener",
+    "tween",
+    "animation",
+    "tweening"
+  ],
+  "homepage": "https://github.com/BryanGrezeszak/reflux-router",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
